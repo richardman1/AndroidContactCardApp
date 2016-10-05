@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactCard RicharddeJongh</string>
+    <string name="hello_i_am">Hello, I am</string>
+    <string name="updateButtonText">Click me!</string>
+    <string name="action_settings">Settings</string>
+    <string name="age">age</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+</resources>
